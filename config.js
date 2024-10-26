@@ -10,46 +10,28 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['5215541081250', ' 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ', true],
-  ['5215541081250', ' 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ', true],
-  ['5215541081250', ' 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ', true],
-  ['5215541081250', ' 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', ' 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ', true],
-  ['5215541081250', ' 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ', true],
-  ['5215541081250', ' 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ', true],
-  ['5215541081250', ' 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ', false],
-  ['5215541081250', ' 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ', true],
-  ['5215541081250','  𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕  ', true],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'], 
-  ['5215541081250'],  
-  ['5215541081250'], 
-  ['5215541081250']
+  ['5214461281232', ' AntonyxT  ', true],
+  ['5216442323706', ' Colaborador  ', true],
+  ['5216442323706', '  Colaborador ', true],
 ];
 
-global.suittag = ['5215541081250'];
-global.prems = ['5215541081250'];
+global.suittag = ['5216442323706'];
+global.prems = ['5216442323706'];
 
-global.packname = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.author = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.wm = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.titulowm = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.titulowm2 = `𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕`
-global.igfg = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
+global.packname = 'SKARCITA ';
+global.author = 'SKARCITA ';
+global.wm = 'SKARCITA ';
+global.titulowm = 'SKARCITA ';
+global.titulowm2 = `SKARCITA `
+global.igfg = 'SKARCITA ';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
-global.imagen1 = fs.readFileSync('./allmenu.png');
-global.imagen2 = fs.readFileSync('./src/newavatar.png');
-global.imagen3 = fs.readFileSync('./src/newavatar.png');
-global.imagen4 = fs.readFileSync('./allmenu.png');
-global.imagen5 = fs.readFileSync('./src/newavatar.png');
-global.imagen6 = fs.readFileSync('./allmenu.png');
+global.imagen1 = fs.readFileSync('./Menu2.jpg');
+global.imagen2 = fs.readFileSync('.Menu2.jpg');
+global.imagen3 = fs.readFileSync('Menu2.jpg');
+global.imagen4 = fs.readFileSync('Menu2.jpg');
+global.imagen5 = fs.readFileSync('Menu2.jpg');
+global.imagen6 = fs.readFileSync('./Menu2.jpg');
 
 global.mods = [];
 
@@ -62,15 +44,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕`;
-global.gt = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.mysticbot = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
+global.wm2 = `▸ ${dia} ${fecha}\n  SKARCITA`;
+global.gt = 'SKARCITA';
+global.mysticbot = 'SKARCITA';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.nomorown = '5215541081250';
+global.nomorown = '5216442323706';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
